@@ -203,12 +203,6 @@
       }
     },
     {
-      "scope": "meta.structure.dictionary.key.python",
-      "settings": {
-        "foreground": "#9cdcfe"
-      }
-    },
-    {
       "scope": "meta.diff.header",
       "settings": {
         "foreground": "#C56C72"
@@ -344,12 +338,6 @@
       }
     },
     {
-      "scope": "support.function.git-rebase",
-      "settings": {
-        "foreground": "#9cdcfe"
-      }
-    },
-    {
       "scope": "constant.sha.git-rebase",
       "settings": {
         "foreground": "#b5cea8"
@@ -459,13 +447,6 @@
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
         "foreground": "#d4d4d4"
-      }
-    },
-    {
-      "name": "Object keys, TS grammar specific",
-      "scope": ["meta.object-literal.key"],
-      "settings": {
-        "foreground": "#9CDCFE"
       }
     },
     {
