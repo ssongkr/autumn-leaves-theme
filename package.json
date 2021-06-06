@@ -1,0 +1,21 @@
+{
+    "name": "ez-theme",
+    "displayName": "EZ Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "EZ Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/EZ Theme-color-theme.json"
+            }
+        ]
+    }
+}
