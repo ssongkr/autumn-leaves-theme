@@ -2,7 +2,7 @@
     "name": "ez-theme",
     "displayName": "EZ Theme",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -14,7 +14,7 @@
             {
                 "label": "EZ Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/EZ Theme-color-theme.json"
+                "path": "./themes/ez-theme.json"
             }
         ]
     }
