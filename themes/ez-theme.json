@@ -91,7 +91,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#a4a4a4"
+        "foreground": "#d4d4d4"
       }
     },
     {
@@ -181,7 +181,7 @@
       "name": "brackets of XML/HTML tags",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#808080"
+        "foreground": "#afafaf"
       }
     },
     {
@@ -221,15 +221,9 @@
       }
     },
     {
-      "scope": "storage.type",
-      "settings": {
-        "foreground": "#6EB3C0"
-      }
-    },
-    {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#C56C72"
+        "foreground": "#6EB3C0"
       }
     },
     {
@@ -285,7 +279,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#a4a4a4"
+        "foreground": "#afafaf"
       }
     },
     {
@@ -303,7 +297,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#C56C72"
+        "foreground": "#afafaf"
       }
     },
     {
@@ -311,7 +305,7 @@
         "punctuation.accessor",
         "punctuation.terminator",
         "punctuation.separator",
-				"keyword.operator.type.annotation"
+        "keyword.operator.type.annotation"
       ],
       "settings": {
         "foreground": "#949494"

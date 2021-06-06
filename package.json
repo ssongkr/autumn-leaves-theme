@@ -1,21 +1,26 @@
 {
-    "name": "ez-theme",
-    "displayName": "EZ Theme",
-    "description": "",
-    "version": "0.1.0",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "EZ Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ez-theme.json"
-            }
-        ]
-    }
+  "publisher": "ssongkr",
+  "name": "ez-theme",
+  "displayName": "EZ Theme",
+  "description": "",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EZ Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ez-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssongkr/ez-theme"
+  }
 }
