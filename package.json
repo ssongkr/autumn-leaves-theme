@@ -1,7 +1,7 @@
 {
   "publisher": "ssongkr",
-  "name": "ez-theme",
-  "displayName": "EZ Theme",
+  "name": "autumn-leaves-theme",
+  "displayName": "Autumn Leaves Theme",
   "description": "",
   "version": "0.1.1",
   "engines": {
@@ -16,14 +16,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "EZ Theme",
+        "label": "Autumn Leaves Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/ez-theme.json"
+        "path": "./themes/autumn-leaves-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ssongkr/ez-theme"
+    "url": "https://github.com/ssongkr/autumn-leaves-theme"
   }
 }
