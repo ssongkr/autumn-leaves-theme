@@ -2,13 +2,27 @@
   "publisher": "ssongkr",
   "name": "autumn-leaves-theme",
   "displayName": "Autumn Leaves Theme",
-  "description": "",
+  "description": "A beautiful dark theme inspired by autumn leaves with warm orange and brown color palette",
   "version": "0.1.1",
   "engines": {
     "vscode": "^1.56.0"
   },
   "scripts": {
-    "build": "vsce package"
+    "build": "vsce package",
+    "publish": "vsce publish"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "autumn",
+    "leaves",
+    "orange",
+    "brown",
+    "color-theme"
+  ],
+  "galleryBanner": {
+    "color": "#d19a66",
+    "theme": "dark"
   },
   "categories": [
     "Themes"
